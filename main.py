@@ -1,13 +1,13 @@
 import streamlit as st
 import os
 import subprocess
-from PIL import Image
-from IPython import display
-display.clear_output()
+# from PIL import Image
+# from IPython import display
+# display.clear_output()
 import ultralytics
 ultralytics.checks()
 from ultralytics import YOLO
-from IPython.display import display, Image
+# from IPython.display import display, Image
 import shutil
 
 def delete_folder(folder_path):
