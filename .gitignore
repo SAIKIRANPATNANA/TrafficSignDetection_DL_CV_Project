@@ -1,5 +1,6 @@
 /trash
 /test_images
+/road_sign_dataset 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
