@@ -61,7 +61,7 @@ output_dir = 'runs/detect/predict'
 
 # Title and header with emojis
 st.markdown("# 🚦 Traffic Sign Detection 🛑")
-st.markdown("**Trained & Developed by Sai Kiran Patnana**")
+st.header("Trained & Developed by Sai Kiran Patnana")
 
 # Delete existing 'runs' folder
 delete_folder('runs')
